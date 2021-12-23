@@ -1,3 +1,5 @@
+I have used my knowledge of Python and Object Oriented Programming to develop this game.
+
 """This program plays a game of Rock, Paper, Scissors between two Players,
 and reports both Player's scores each round."""
 
