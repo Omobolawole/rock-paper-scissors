@@ -1,4 +1,4 @@
-I have used my knowledge of Python and Object Oriented Programming to develop this game.
+I have used my knowledge of Python and Object Oriented Programming to develop this game for Udacity's Web Nanodegree Programs.
 
 """This program plays a game of Rock, Paper, Scissors between two Players,
 and reports both Player's scores each round."""
